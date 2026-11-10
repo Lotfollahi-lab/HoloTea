@@ -1,0 +1,77 @@
+cff-version: 1.2.0
+message: "If you use HoloTea, please cite the paper below."
+title: "HoloTea: 3D-Guided Scalable Flow Matching for Generating Volumetric Tissue Spatial Transcriptomics from Serial Histology"
+type: software
+repository-code: "https://github.com/Lotfollahi-lab/HoloTea"
+url: "https://arxiv.org/abs/2511.14613"
+keywords:
+  - spatial transcriptomics
+  - flow matching
+  - histology
+  - 3D imputation
+authors:
+  - given-names: "Mohammad Vali"
+    family-names: "Sanian"
+  - given-names: "Arshia"
+    family-names: "Hemmat"
+  - given-names: "Amirhossein"
+    family-names: "Vahidi"
+  - given-names: "Jonas"
+    family-names: "Maaskola"
+  - given-names: "Jimmy Tsz Hang"
+    family-names: "Lee"
+  - given-names: "Martin"
+    family-names: "Prete"
+  - given-names: "Stanislaw"
+    family-names: "Makarchuk"
+  - given-names: "Yeliz"
+    family-names: "Demirci"
+  - given-names: "Nana-Jane"
+    family-names: "Chipampe"
+  - given-names: "Muzlifah"
+    family-names: "Haniffa"
+  - given-names: "Omer"
+    family-names: "Bayraktar"
+  - given-names: "Lassi"
+    family-names: "Paavolainen"
+  - given-names: "Mohammad"
+    family-names: "Lotfollahi"
+preferred-citation:
+  type: conference-paper
+  title: "3D-Guided Scalable Flow Matching for Generating Volumetric Tissue Spatial Transcriptomics from Serial Histology"
+  authors:
+    - given-names: "Mohammad Vali"
+      family-names: "Sanian"
+    - given-names: "Arshia"
+      family-names: "Hemmat"
+    - given-names: "Amirhossein"
+      family-names: "Vahidi"
+    - given-names: "Jonas"
+      family-names: "Maaskola"
+    - given-names: "Jimmy Tsz Hang"
+      family-names: "Lee"
+    - given-names: "Martin"
+      family-names: "Prete"
+    - given-names: "Stanislaw"
+      family-names: "Makarchuk"
+    - given-names: "Yeliz"
+      family-names: "Demirci"
+    - given-names: "Nana-Jane"
+      family-names: "Chipampe"
+    - given-names: "Muzlifah"
+      family-names: "Haniffa"
+    - given-names: "Omer"
+      family-names: "Bayraktar"
+    - given-names: "Lassi"
+      family-names: "Paavolainen"
+    - given-names: "Mohammad"
+      family-names: "Lotfollahi"
+  conference:
+    name: "Machine Learning in Computational Biology (MLCB)"
+  year: 2026
+  doi: "10.48550/arXiv.2511.14613"
+  url: "https://arxiv.org/abs/2511.14613"
+  identifiers:
+    - type: other
+      value: "arXiv:2511.14613"
+      description: "arXiv preprint"
